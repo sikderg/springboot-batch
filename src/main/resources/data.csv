@@ -1,0 +1,102 @@
+id,Title,Author,Genre,PublicationYear,Price
+1,To Kill a Mockingbird,Harper Lee,Fiction,1960,15.99
+2,1984,George Orwell,Dystopian,1949,12.5
+3,The Great Gatsby,F. Scott Fitzgerald,Classics,1925,14.95
+4,The Catcher in the Rye,J.D. Salinger,Coming-of-age,1951,10.75
+5,Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,1997,21.99
+6,The Hobbit,J.R.R. Tolkien,Fantasy,1937,18.5
+7,The Da Vinci Code,Dan Brown,Mystery,2003,16.99
+8,Pride and Prejudice,Jane Austen,Romance,1813,11.25
+9,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,25
+10,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,1979,13.25
+11,The Shining,Stephen King,Horror,1977,14.5
+12,Brave New World,Aldous Huxley,Dystopian,1932,11.99
+13,The Chronicles of Narnia,C.S. Lewis,Fantasy,1950,19.95
+14,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2005,17.5
+15,One Hundred Years of Solitude,Gabriel Garcia Marquez,Magic Realism,1967,16
+16,The Hunger Games,Suzanne Collins,Dystopian,2008,12.99
+17,The Road,Cormac McCarthy,Post-apocalyptic,2006,15.75
+18,Fahrenheit 451,Ray Bradbury,Dystopian,1953,13.99
+19,The Alchemist,Paulo Coelho,Philosophical Fiction,1988,14.25
+20,The Color Purple,Alice Walker,Fiction,1982,13.5
+21,The Outsiders,S.E. Hinton,Young Adult,1967,10.99
+22,Dune,Frank Herbert,Science Fiction,1965,22.5
+23,The Kite Runner,Khaled Hosseini,Fiction,2003,16.99
+24,Moby-Dick,Herman Melville,Adventure,1851,20.5
+25,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,18.75
+26,The Road Not Taken,Robert Frost,Poetry,1916,8.99
+27,The Fault in Our Stars,John Green,Young Adult,2012,14.5
+28,War and Peace,Leo Tolstoy,Classics,1869,24.99
+29,The Stand,Stephen King,Horror,1978,15.25
+30,The Three Musketeers,Alexandre Dumas,Adventure,1844,12.95
+31,The Grapes of Wrath,John Steinbeck,Fiction,1939,13.5
+32,The Old Man and the Sea,Ernest Hemingway,Classics,1952,10.99
+33,The Book Thief,Markus Zusak,Historical Fiction,2005,16.99
+34,The Prince,Machiavelli,Political Philosophy,1532,9.75
+35,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,18.25
+36,Siddhartha,Hermann Hesse,Spiritual,1922,11.5
+37,The Picture of Dorian Gray,Oscar Wilde,Classics,1890,14.99
+38,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,1880,21
+39,Dracula,Bram Stoker,Horror,1897,12.75
+40,The Secret Garden,Frances Hodgson Burnett,Children's Literature,1911,9.99
+41,The Sun Also Rises,Ernest Hemingway,Modernist Literature,1926,12.25
+42,Animal Farm,George Orwell,Political Satire,1945,11.5
+43,The Silence of the Lambs,Thomas Harris,Psychological Thriller,1988,15.99
+44,Les Misérables,Victor Hugo,Historical Fiction,1862,19.75
+45,The Jungle Book,Rudyard Kipling,Children's Literature,1894,10.5
+46,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,1902,11.99
+47,A Game of Thrones,George R.R. Martin,Fantasy,1996,23.5
+48,The War of the Worlds,H.G. Wells,Science Fiction,1898,14.99
+49,The Glass Castle,Jeannette Walls,Memoir,2005,16.25
+50,Gone with the Wind,Margaret Mitchell,Historical Fiction,1936,20.99
+51,The Martian,Andy Weir,Science Fiction,2011,17.5
+52,The Little Prince,Antoine de Saint-Exupéry,Children's Literature,1943,10.99
+53,The Godfather,Mario Puzo,Crime Fiction,1969,15.99
+54,The Joy Luck Club,Amy Tan,Contemporary Fiction,1989,14.5
+55,The Wind in the Willows,Kenneth Grahame,Children's Literature,1908,9.75
+56,The Metamorphosis,Franz Kafka,Existentialism,1915,10.25
+57,The Fifth Mountain,Paulo Coelho,Philosophical Fiction,1996,13.75
+58,The Phantom of the Opera,Gaston Leroux,Gothic,1910,12.99
+59,The Great Gatsby,F. Scott Fitzgerald,Classics,1925,14.95
+60,The Catcher in the Rye,J.D. Salinger,Coming-of-age,1951,10.75
+61,Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,1997,21.99
+62,The Hobbit,J.R.R. Tolkien,Fantasy,1937,18.5
+63,The Da Vinci Code,Dan Brown,Mystery,2003,16.99
+64,Pride and Prejudice,Jane Austen,Romance,1813,11.25
+65,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,25
+66,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,1979,13.25
+67,The Shining,Stephen King,Horror,1977,14.5
+68,Brave New World,Aldous Huxley,Dystopian,1932,11.99
+69,The Chronicles of Narnia,C.S. Lewis,Fantasy,1950,19.95
+70,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2005,17.5
+71,One Hundred Years of Solitude,Gabriel Garcia Marquez,Magic Realism,1967,16
+72,The Hunger Games,Suzanne Collins,Dystopian,2008,12.99
+73,The Road,Cormac McCarthy,Post-apocalyptic,2006,15.75
+74,Fahrenheit 451,Ray Bradbury,Dystopian,1953,13.99
+75,The Alchemist,Paulo Coelho,Philosophical Fiction,1988,14.25
+76,The Color Purple,Alice Walker,Fiction,1982,13.5
+77,The Outsiders,S.E. Hinton,Young Adult,1967,10.99
+78,Dune,Frank Herbert,Science Fiction,1965,22.5
+79,The Kite Runner,Khaled Hosseini,Fiction,2003,16.99
+80,Moby-Dick,Herman Melville,Adventure,1851,20.5
+81,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,18.75
+82,The Road Not Taken,Robert Frost,Poetry,1916,8.99
+83,The Fault in Our Stars,John Green,Young Adult,2012,14.5
+84,War and Peace,Leo Tolstoy,Classics,1869,24.99
+85,The Stand,Stephen King,Horror,1978,15.25
+86,The Three Musketeers,Alexandre Dumas,Adventure,1844,12.95
+87,The Grapes of Wrath,John Steinbeck,Fiction,1939,13.5
+88,The Old Man and the Sea,Ernest Hemingway,Classics,1952,10.99
+89,The Book Thief,Markus Zusak,Historical Fiction,2005,16.99
+90,The Prince,Machiavelli,Political Philosophy,1532,9.75
+91,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,18.25
+92,Siddhartha,Hermann Hesse,Spiritual,1922,11.5
+93,The Picture of Dorian Gray,Oscar Wilde,Classics,1890,14.99
+94,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,1880,21
+95,Dracula,Bram Stoker,Horror,1897,12.75
+96,The Secret Garden,Frances Hodgson Burnett,Children's Literature,1911,9.99
+97,The Sun Also Rises,Ernest Hemingway,Modernist Literature,1926,12.25
+98,Animal Farm,George Orwell,Political Satire,1945,11.5
+99,The Silence of the Lambs,Thomas Harris,Psychological Thriller,1988,15.99
+100,Les Misérables,Victor Hugo,Historical Fiction,1862,19.75
+101,The Jungle Book,Rudyard Kipling,Children's Literature,1894,10.5
