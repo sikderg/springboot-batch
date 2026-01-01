@@ -72,10 +72,11 @@ The application reads data from the specified CSV file, processes it using Sprin
 java -jar target/your-application.jar
 ```
 
-## Contributing
+## Contributing 
 
 If you would like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
+
 
 This project is licensed under the [Apache License](LICENSE).
